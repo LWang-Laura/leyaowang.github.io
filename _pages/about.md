@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Leyao Wang"
+title: "Leyao (Laura) Wang  王乐瑶"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-<p style="font-size:20px;"> **Welcome!** I am Leyao(Laura) Wang, a senior student at Vanderbilt University double majoring in Computer Science and Mathematics, with a minor in Data Science. I am currently advised by Dr.Tyler Derr at Vanderbilt Network Data Science (NDS) Lab and Dr. Pranam Chatterjee in The Programmable Biology Group(PBG) at Duke University. In the past, I was fortunate to work with Dr. Zhijun Yin in the Vanderbilt SPHERE lab.</p>
+**Welcome!** 
+<p style="font-size:20px;"> I am Leyao(Laura) Wang, a senior student at Vanderbilt University double majoring in Computer Science and Mathematics, with a minor in Data Science. I am currently advised by Dr.Tyler Derr at Vanderbilt Network Data Science (NDS) Lab and Dr. Pranam Chatterjee in The Programmable Biology Group(PBG) at Duke University. In the past, I was fortunate to work with Dr. Zhijun Yin in the Vanderbilt SPHERE lab.</p>
 
 Research Interests
 ======
