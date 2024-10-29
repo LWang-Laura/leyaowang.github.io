@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 <br />
-**<p style="font-size:20px;">Welcome!</p>** 
 
-<p style="font-size:18px;">I am Leyao(Laura) Wang, a senior student at Vanderbilt University double majoring in Computer Science and Mathematics, with a minor in Data Science. I am currently advised by Dr. Tyler Derr at Vanderbilt Network Data Science (NDS) Lab and Dr. Pranam Chatterjee in The Programmable Biology Group (PBG) at Duke University. In the past, I was fortunate to work with Dr. Zhijun Yin in the Vanderbilt SPHERE lab.</p>
+<p style="font-size:18px;">Welcome! I am Leyao(Laura) Wang, a senior student at Vanderbilt University double majoring in Computer Science and Mathematics, with a minor in Data Science. I am currently advised by Dr. Tyler Derr at Vanderbilt Network Data Science (NDS) Lab and Dr. Pranam Chatterjee in The Programmable Biology Group (PBG) at Duke University. In the past, I was fortunate to work with Dr. Zhijun Yin in the Vanderbilt SPHERE lab.</p>
 
 
 Research Interests
