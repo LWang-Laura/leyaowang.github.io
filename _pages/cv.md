@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[CV](./assets/Resume_CRA.pdf)
+[CV](../assets/Resume_CRA.pdf)
