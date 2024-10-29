@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[CV](../assets/Resume_CRA.pdf)
+You can download my CV [HERE](https://drive.google.com/file/d/1LTHFXRRrJt6C03q116_42O4iwIBkOl6l/view?usp=sharing)
