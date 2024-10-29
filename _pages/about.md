@@ -20,7 +20,7 @@ Research Interests
  My research interests mainly focus on Natural Language Processing and Large Language Models, including:
 
 - **Trustworthy AI**: Enhancing the robustness of large language models (LLM) and aligning them with human values through fine-tuning, in-context learning (ICL), retrieval-augmented generation (RAG), etc.
-- **Data-Centric AI**: Utilizing large language models (LLM) to tackle data quality challenges, including class imbalance, labeling inaccuracies, and missing values, through advanced text generation techniques.
+- **Data-Centric AI**: Utilizing large language models (LLM) to tackle data quality challenges, including class imbalance, data sparsity, and missing values, through advanced text generation techniques.
 - **AI for Science**: Applying large language models (LLM) in scientific domains, such as encoding molecule or peptide sequences for chemical property representation.
 
 News
