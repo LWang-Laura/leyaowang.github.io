@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Leyao (Laura) Wang  王乐瑶"
+title: "Leyao (Laura) Wang"
 author_profile: true
 redirect_from: 
   - /about/
