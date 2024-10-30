@@ -15,4 +15,4 @@ author_profile: true
 2. **Leyao Wang** *, Rishab Pulugurta *, Pranay Vure *, Yinuo Zhang *, Aastha Pal, Pranam Chatterjee. “[PepDoRA: A Unified Peptide Language Model via Weight-Decomposed Low-Rank Adaptation](https://arxiv.org/abs/2410.20667)”. (Under Review) 
 
 ### WORKSHOP 
-1. **Leyao Wang** *, Rishab Pulugurta *, Pranay Vure *, Yinuo Zhang *, Aastha Pal, Pranam Chatterjee. “[PepDoRA: A Unified Peptide Language Model via Weight-Decomposed Low-Rank Adaptation](https://arxiv.org/abs/2410.20667)”. NeurIPS 2024 Workshop on AI for New Drug Modalities **(AIDrugX @ NeurIPS24)**. 
+1. **Leyao Wang** *, Rishab Pulugurta *, Pranay Vure *, Yinuo Zhang *, Aastha Pal, Pranam Chatterjee. “PepDoRA: A Unified Peptide Language Model via Weight-Decomposed Low-Rank Adaptation”. NeurIPS 2024 Workshop on AI for New Drug Modalities **(AIDrugX @ NeurIPS24)**. 
