@@ -13,7 +13,7 @@ author_profile: true
 1. Wenqiang Chen *, Jason Cheng *, **Leyao Wang**, Wei Zhao, Wojciech Matusik. “[Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors](https://arxiv.org/abs/2410.20034)”. ACM International Joint Conference on Pervasive and Ubiquitous Computing **(UbiComp/ISWC 2024)**. 
 
 ### JOURNAL
-1. **Leyao Wang** *,  Zhiyu Wan *, Congning Ni, Qingyuan Song, Yang Li, Ellen W Clayton, Bradley Malin, Zhijun Yin. “[Application and Concerns of ChatGPT and Conversational Large Language Models in Healthcare: A Systematic Review](https://www.medrxiv.org/content/10.1101/2024.04.26.24306390v1)”. Journal of Medical Internet Research **(JMIR)**.
+1. **Leyao Wang** *,  Zhiyu Wan *, Congning Ni, Qingyuan Song, Yang Li, Ellen W Clayton, Bradley Malin, Zhijun Yin. “[Application and Concerns of ChatGPT and Conversational Large Language Models in Healthcare: A Systematic Review](https://www.jmir.org/2024/1/e22769)”. Journal of Medical Internet Research **(JMIR)**.
 
 
 ### WORKSHOP 
