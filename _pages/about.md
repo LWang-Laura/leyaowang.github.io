@@ -9,7 +9,7 @@ redirect_from:
 
 <br />
 
-<p style="font-size:18px;">Welcome! I am Leyao(Laura) Wang, a senior student at <a href=https://www.vanderbilt.edu/> Vanderbilt University</a> double majoring in Computer Science and Mathematics, with a minor in Data Science. I am currently advised by Dr.<a href=https://tylersnetwork.github.io/> Tyler Derr</a>  in <a href="https://nds-vu.github.io/">Network Data Science (NDS) Lab</a> at Vanderbilt and Dr.  <a href="https://bme.duke.edu/people/pranam-chatterjee/"> Pranam Chatterjee</a>  in <a href="https://www.chatterjeelab.com/">The Programmable Biology Group (PBG)</a> at Duke University. In the past, I was fortunate to work with Dr. <a href=https://www.vumc.org/biostatistics/person/zhijun-yin/> Zhijun Yin</a> in the Vanderbilt SPHERE lab.</p>
+<p style="font-size:18px;">Welcome! I am Leyao(Laura) Wang, a senior student at <a href="https://www.vanderbilt.edu/"> Vanderbilt University</a> double majoring in Computer Science and Mathematics, with a minor in Data Science. I am currently advised by Dr.<a href="https://tylersnetwork.github.io/"> Tyler Derr</a>  in <a href="https://nds-vu.github.io/">Network Data Science (NDS) Lab</a> at Vanderbilt and Dr.  <a href="https://bme.duke.edu/people/pranam-chatterjee/"> Pranam Chatterjee</a>  in <a href="https://www.chatterjeelab.com/">The Programmable Biology Group (PBG)</a> at Duke University. In the past, I was fortunate to work with Dr. <a href=https://www.vumc.org/biostatistics/person/zhijun-yin/> Zhijun Yin</a> in the Vanderbilt SPHERE lab.</p>
 
 
 Research Interests
