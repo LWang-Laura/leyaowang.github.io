@@ -23,8 +23,11 @@ Research Interests
 
 News
 ======
+- [02/2025] Our survey "[Towards Trustworthy Retrieval Augmented
+Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)" has been released on ArXiv!
+- [01/2025] I am selected as an Honorable Mention for the [2024-2025 CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/)! 
+- [12/2024] My paper "[PepDoRA: A Unified Peptide Language Model via Weight-Decomposed Low-Rank Adaptation](https://neurips.cc/virtual/2024/102894)" was presented at NeurIPS 2024 Workshop on AI for New Drug Modalities (AIDrugX @ NeurIPS24)!
 - [11/2024] My paper ["Applications and Concerns of ChatGPT and Other Conversational Large Language Models in Health Care: Systematic Review"](https://www.jmir.org/2024/1/e22769) is now published on JMIR!
-- [11/2024] My paper "[PepDoRA: A Unified Peptide Language Model via Weight-Decomposed Low-Rank Adaptation](https://arxiv.org/abs/2410.20667)" has been submitted to Nature Communications and is under review!
 - [10/2024] My paper "[PepDoRA: A Unified Peptide Language Model via Weight-Decomposed Low-Rank Adaptation](https://arxiv.org/abs/2410.20667)" has been accepted by NeurIPS 2024 Workshop on AI for New Drug Modalities (AIDrugX @ NeurIPS24)!
 - [10/2024] My paper ["Applications and Concerns of ChatGPT and Other Conversational Large Language Models in Healthcare: A Systematic Review"](https://www.medrxiv.org/content/10.1101/2024.04.26.24306390v1) has been accepted by the Journal of Medical Internet Research (JMIR)!
 - [09/2024] Our paper ["Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"](https://arxiv.org/abs/2410.20034) has been accepted to The ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp 2024)!
