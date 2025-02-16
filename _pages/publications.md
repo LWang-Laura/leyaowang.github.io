@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ### PREPRINT
-1.  Bo Ni, Zheyuan Liu ^, **Leyao Wang** ^, Yongjia Lei ^, Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang *, Meng Jiang *, Tyler Derr *. “[Towards Trustworthy Retrieval Augmented
+1.  Bo Ni, Zheyuan Liu ^ , **Leyao Wang** ^ , Yongjia Lei ^ , Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang *, Meng Jiang *, Tyler Derr *. “[Towards Trustworthy Retrieval Augmented
 Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)”
 
 2.  **Leyao Wang** *, Yu Wang *, Bo Ni *, Yuying Zhao, Tyler Derr. “[Large Language Model-based Augmentation for Imbalanced Node Classification on Text-Attributed Graphs](https://arxiv.org/abs/2410.16882)”
