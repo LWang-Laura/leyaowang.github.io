@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Leyao Wang 王乐瑶"
 title_separator          : "-"
-name                     : &name "Leyao Wang - Vanderbilt University"
+name                     : &name "Leyao Wang - Yale University"
 description              : &description "personal description"
 url                      : https://lwang-laura.github.io/leyaowang.github.io/ #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,14 +21,14 @@ repository               : LWang-Laura/lwang-laura.github.io/leyaowang.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "laura.png"
+  avatar           : "laura2.png"
   name             : "Leyao Wang"
   pronouns         : # example: "she/her"  
   bio              : " "#"Short biography for the left-hand sidebar"
-  location         : "Nashville, TN"
-  employer         : "Vanderbilt University"
+  location         : "New Haven, CT"
+  employer         : "Yale University"
   uri              : # URL
-  email            : "leyao.wang@vanderbilt.edu" 
+  email            : "leyao.wang.lw855@yale.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
