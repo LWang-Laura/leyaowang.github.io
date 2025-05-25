@@ -12,9 +12,14 @@ title                    : "Leyao Wang 王乐瑶"
 title_separator          : "-"
 name                     : &name "Leyao Wang - Yale University"
 description              : &description "personal description"
-url                      : https://lwang-laura.github.io/leyaowang.github.io/ #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : LWang-Laura/lwang-laura.github.io/leyaowang.github.io/ #"academicpages/academicpages.github.io"
+# url                      : https://lwang-laura.github.io/leyaowang.github.io/ #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+# baseurl                  : "" # the subpath of your site, e.g. "/blog"
+# repository               : LWang-Laura/lwang-laura.github.io/leyaowang.github.io/ #"academicpages/academicpages.github.io"
+
+# --- Canonical / build settings ---
+url       : "https://lwang-laura.github.io"      # ① no trailing slash, no sub-path
+baseurl   : "/leyaowang.github.io"               # ② leading slash, the repo name
+repository: "LWang-Laura/leyaowang.github.io"    # ③ owner/repo only
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
