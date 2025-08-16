@@ -6,9 +6,10 @@ author_profile: true
 ---
 
 ### PREPRINT
-1. **Leyao Wang**, Yu Wang, Bo Ni, Yuying Zhao, Hanyu Wang, Yao Ma, Tyler Derr. “[SaVe-Tag: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882)”
-  
-2.  Bo Ni, Zheyuan Liu ^ , **Leyao Wang** ^ , Yongjia Lei ^ , Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang *, Meng Jiang *, Tyler Derr *. “[Towards Trustworthy Retrieval Augmented
+1. **Leyao Wang** *, Xutao Mao *, Xuhui Zhan, Yuying Zhao, Bo Ni, Ryan A. Rossi, Nesreen K. Ahmed, Tyler Derr “[Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation](https://arxiv.org/abs/2508.01128)”
+2. **Leyao Wang**, Yu Wang, Bo Ni, Yuying Zhao, Hanyu Wang, Yao Ma, Tyler Derr. “[SaVe-Tag: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882)”
+3. Xutao Mao, Ezra Xuanru Tao, **Leyao Wang**. “[MindVote: When AI Meets the Wild West of Social Media Opinion](https://arxiv.org/abs/2505.14422)”
+4.  Bo Ni, Zheyuan Liu ^ , **Leyao Wang** ^ , Yongjia Lei ^ , Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang *, Meng Jiang *, Tyler Derr *. “[Towards Trustworthy Retrieval Augmented
 Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)”
 
 
