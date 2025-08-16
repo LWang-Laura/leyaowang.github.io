@@ -25,6 +25,8 @@ News
 ======
 - [08/2025] My paper "[Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation](https://arxiv.org/abs/2508.01128)" has been released on ArXiv!
 - [08/2025] My paper "[MindVote: When AI Meets the Wild West of Social Media Opinion](https://arxiv.org/abs/2505.14422)" has been released on ArXiv!
+- [06/2025] Join the <a href="https://nlp.cs.yale.edu/"> Yale NLP Lab</a> co-advised by Prof. <a href="https://armancohan.com/"> Arman Cohan</a>!
+- [06/2025] Join the <a href="https://graph-and-geometric-learning.github.io/"> Graph and Geometric Learning Lab </a> co-advised by Prof. <a href="https://www.cs.yale.edu/homes/ying-rex/"> Rex Ying</a>!
 - [05/2025] My paper "[SaVe-TAG: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882)" has been released on ArXiv!
 - [02/2025] Our survey "[Towards Trustworthy Retrieval Augmented
 Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)" has been released on ArXiv!
