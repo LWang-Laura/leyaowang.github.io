@@ -9,7 +9,7 @@ redirect_from:
 
 <br />
 
-<p style="font-size:18px;">Welcome! I am Leyao (Laura) Wang, an incoming <a href="https://engineering.yale.edu/academic-study/departments/computer-science/graduate-study/master-science-program"> 2-year MSCS</a> at <a href="https://www.yale.edu/"> Yale University</a>. I obtained the Bachelor of Science from <a href="https://www.vanderbilt.edu/"> Vanderbilt University</a> with <a href="https://registrar.vanderbilt.edu/academic-records/latin-honors.php"> summa cum laude </a> (the highest honor), double majoring in <a href="https://engineering.vanderbilt.edu/departments/computer-science/"> Computer Science</a> and <a href="https://as.vanderbilt.edu/math/"> Mathematics</a> and minoring in <a href="https://www.vanderbilt.edu/datascience/"> Data Science</a>. In the past, I was fortunate to work with Dr.<a href="https://tylersnetwork.github.io/"> Tyler Derr</a>  in <a href="https://nds-vu.github.io/">Network Data Science (NDS) Lab</a> at Vanderbilt, Dr. <a href="https://bme.duke.edu/people/pranam-chatterjee/"> Pranam Chatterjee</a>  in <a href="https://www.chatterjeelab.com/">The Programmable Biology Group (PBG)</a> at Duke University, and Dr. <a href="https://www.vumc.org/biostatistics/person/zhijun-yin/"> Zhijun Yin</a> from the Vanderbilt SPHERE lab.</p>
+<p style="font-size:18px;">Welcome! I am Leyao (Laura) Wang, a <a href="https://engineering.yale.edu/academic-study/departments/computer-science/graduate-study/master-science-program"> 2-year MSCS</a> at <a href="https://www.yale.edu/"> Yale University</a> co-advised by Prof. <a href="https://www.cs.yale.edu/homes/ying-rex/"> Rex Ying</a> and Prof. <a href="https://armancohan.com/"> Arman Cohan</a>. I obtained the Bachelor of Science from <a href="https://www.vanderbilt.edu/"> Vanderbilt University</a> with <a href="https://registrar.vanderbilt.edu/academic-records/latin-honors.php"> summa cum laude </a> (the highest honor), double majoring in <a href="https://engineering.vanderbilt.edu/departments/computer-science/"> Computer Science</a> and <a href="https://as.vanderbilt.edu/math/"> Mathematics</a> and minoring in <a href="https://www.vanderbilt.edu/datascience/"> Data Science</a>. In the past, I was fortunate to work with Dr.<a href="https://tylersnetwork.github.io/"> Tyler Derr</a>  in <a href="https://nds-vu.github.io/">Network Data Science (NDS) Lab</a> at Vanderbilt, Dr. <a href="https://bme.duke.edu/people/pranam-chatterjee/"> Pranam Chatterjee</a>  in <a href="https://www.chatterjeelab.com/">The Programmable Biology Group (PBG)</a> at Duke University, and Dr. <a href="https://www.vumc.org/biostatistics/person/zhijun-yin/"> Zhijun Yin</a> from the Vanderbilt SPHERE lab.</p>
 
 
 Research Interests
@@ -23,6 +23,9 @@ Research Interests
 
 News
 ======
+- [08/2025] My paper "[Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation](https://arxiv.org/abs/2508.01128)" has been released on ArXiv!
+- [08/2025] My paper "[MindVote: When AI Meets the Wild West of Social Media Opinion](https://arxiv.org/abs/2505.14422)" has been released on ArXiv!
+- [05/2025] My paper "[SaVe-TAG: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882)" has been released on ArXiv!
 - [02/2025] Our survey "[Towards Trustworthy Retrieval Augmented
 Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)" has been released on ArXiv!
 - [01/2025] I am selected as an Honorable Mention for the [2024-2025 CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/)! 
