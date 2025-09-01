@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+*Check my [Google Scholar](https://scholar.google.com/citations?user=8MsC-v0AAAAJ&hl=en) for the recent updates and details!*
+
 ### PREPRINT
 1. **Leyao Wang** *, Xutao Mao *, Xuhui Zhan, Yuying Zhao, Bo Ni, Ryan A. Rossi, Nesreen K. Ahmed, Tyler Derr “[Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation](https://arxiv.org/abs/2508.01128)”
 2. **Leyao Wang**, Yu Wang, Bo Ni, Yuying Zhao, Hanyu Wang, Yao Ma, Tyler Derr. “[SaVe-Tag: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882)”
