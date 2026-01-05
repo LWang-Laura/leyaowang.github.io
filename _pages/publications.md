@@ -8,17 +8,18 @@ author_profile: true
 *Check my [Google Scholar](https://scholar.google.com/citations?user=8MsC-v0AAAAJ&hl=en) for the recent updates and details!*
 
 ### PREPRINT
-1. **Leyao Wang** *, Xutao Mao *, Xuhui Zhan, Yuying Zhao, Bo Ni, Ryan A. Rossi, Nesreen K. Ahmed, Tyler Derr “[Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation](https://arxiv.org/abs/2508.01128)”
-2. Bo Ni, **Leyao Wang**, Yu Wang, Branislav Kveton, Franck Dernoncourt, Yu Xia, Hongjie Chen, Reuben Leura, Samyadeep Basu, Subhojyoti Mukherjee, Puneet Mathur, Nesreen Ahmed, Junda Wu, Li Li, Huixin Zhang, Ruiyi Zhang, Tong Yu, Sungchul Kim, Jiuxiang Gu, Zhengzhong Tu, Alexa Siu, Zichao Wang, David Seunghyun Yoon, Nedim Lipka, Namyong Park, Zihao Lin, Trung Bui, Yue Zhao, Tyler Derr, Ryan A Rossi. “[Large Language Models for Conversational User Simulation: A Comprehensive Surveyy](https://hal.science/hal-05217179/)”
+1. **Leyao Wang** *, Xutao Mao *, Xuhui Zhan, Yuying Zhao, Bo Ni, Ryan A. Rossi, Nesreen K. Ahmed, Tyler Derr “[Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation](https://arxiv.org/abs/2508.01128)”.
+
 3.  Bo Ni, Zheyuan Liu ^ , **Leyao Wang** ^ , Yongjia Lei ^ , Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang *, Meng Jiang *, Tyler Derr *. “[Towards Trustworthy Retrieval Augmented
-Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)”
+Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)”.
 
 
 
 
 ### CONFERENCE 
-1. **Leyao Wang**, Yu Wang, Bo Ni, Yuying Zhao, Hanyu Wang, Yao Ma, Tyler Derr. “[SaVe-Tag: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882)”. **KDD 2026**
-2. Xutao Mao, Ezra Xuanru Tao, **Leyao Wang**. “[MindVote: When AI Meets the Wild West of Social Media Opinion](https://arxiv.org/abs/2505.14422)”.  **AAAI 2026 (Oral)**
+1. **Leyao Wang**, Yu Wang, Bo Ni, Yuying Zhao, Hanyu Wang, Yao Ma, Tyler Derr. “[SaVe-TAG: LLM-based Interpolation for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882)”. **KDD 2026**.
+2. Xutao Mao, Ezra Xuanru Tao, **Leyao Wang**. “[MindVote: When AI Meets the Wild West of Social Media Opinion](https://arxiv.org/abs/2505.14422)”.  **AAAI 2026 (Oral)**.
+3. Bo Ni, **Leyao Wang**, Yu Wang, Branislav Kveton, Franck Dernoncourt, Yu Xia, Hongjie Chen, Reuben Leura, Samyadeep Basu, Subhojyoti Mukherjee, Puneet Mathur, Nesreen Ahmed, Junda Wu, Li Li, Huixin Zhang, Ruiyi Zhang, Tong Yu, Sungchul Kim, Jiuxiang Gu, Zhengzhong Tu, Alexa Siu, Zichao Wang, David Seunghyun Yoon, Nedim Lipka, Namyong Park, Zihao Lin, Trung Bui, Yue Zhao, Tyler Derr, Ryan A Rossi. “[Large Language Models for Conversational User Simulation: A Comprehensive Surveyy](https://hal.science/hal-05217179/)”.  **EACL 2026**.
 
 
 ### JOURNAL
