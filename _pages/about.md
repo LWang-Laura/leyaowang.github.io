@@ -24,7 +24,7 @@ Research Interests
 News
 ======
 - [01/2026] Our paper "[A Survey on LLM-based Conversational User Simulation](https://hal.science/hal-05217179/)" has been accepted to EACL 2026!
-- [11/2025] My paper "[SaVe-TAG: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882)" has been accepted to KDD 2026!
+- [11/2025] My paper "[SaVe-TAG: LLM-based Interpolation for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882)" has been accepted to KDD 2026!
 - [11/2025] My paper "[MindVote: When AI Meets the Wild West of Social Media Opinion](https://arxiv.org/abs/2505.14422)" has been accepted as AAA2025 (Oral)!
 - [08/2025] My paper "[Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation](https://arxiv.org/abs/2508.01128)" has been released on ArXiv!
 - [08/2025] My paper "[MindVote: When AI Meets the Wild West of Social Media Opinion](https://arxiv.org/abs/2505.14422)" has been released on ArXiv!
