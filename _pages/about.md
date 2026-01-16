@@ -15,16 +15,17 @@ redirect_from:
 Research Interests
 ======
 
- My research interests mainly focus on Natural Language Processing and Large Language Models, including:
+My research interests center on human–AI collaboration, with a focus on aligning and evaluating LLMs and agents across several dimensions:
 
-- **Trustworthy AI**: Enhancing the robustness of large language models (LLM) and aligning them with human values through fine-tuning, in-context learning (ICL), retrieval-augmented generation (RAG), etc.
-- **Data-Centric AI**: Utilizing large language models (LLM) to tackle data quality challenges, including class imbalance, data sparsity, and missing values, through advanced text generation techniques.
-- **AI for Science**: Applying large language models (LLM) in scientific domains, such as encoding molecule or peptide sequences for chemical property representation.
+- **AI for Science**: Training and evaluating agents (e.g., deep research agents) for scientific discovery.
+- **Data-Centric AI**: Synthesizing and curating data for LLM/agent post-training (SFT/RL) and evaluation.
+- **Trustworthy AI**: Aligning LLM/ agents with human values for personalizatin or safety.
+
 
 News
 ======
 - [01/2026] Our paper "[A Survey on LLM-based Conversational User Simulation](https://hal.science/hal-05217179/)" has been accepted to EACL 2026!
-- [11/2025] My paper "[SaVe-TAG: LLM-based Interpolation for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882)" has been accepted to KDD 2026!
+- [11/2025] My paper "[SaVe-TAG: LLM-based Interpolation for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882)" has been accepted to KDD 2026 and NPGML @ Neurips!
 - [11/2025] My paper "[MindVote: When AI Meets the Wild West of Social Media Opinion](https://arxiv.org/abs/2505.14422)" has been accepted as AAA2025 (Oral)!
 - [08/2025] My paper "[Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation](https://arxiv.org/abs/2508.01128)" has been released on ArXiv!
 - [08/2025] My paper "[MindVote: When AI Meets the Wild West of Social Media Opinion](https://arxiv.org/abs/2505.14422)" has been released on ArXiv!
