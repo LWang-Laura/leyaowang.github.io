@@ -14,6 +14,9 @@ author_profile: true
 3. **Leyao Wang** *, Xutao Mao *, Xuhui Zhan, Yuying Zhao, Bo Ni, Ryan A. Rossi, Nesreen K. Ahmed, Tyler Derr “[Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation](https://arxiv.org/abs/2508.01128)”.
 4. Bo Ni, Zheyuan Liu ^ , **Leyao Wang** ^ , Yongjia Lei ^ , Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang *, Meng Jiang *, Tyler Derr *. “[Towards Trustworthy Retrieval Augmented
 Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)”.
+5. Bo Ni, Branislav Kveton, Samyadeep Basu, Subhojyoti Mukherjee, **Leyao Wang**, Franck Dernoncourt, Sungchul Kim, Seunghyun Yoon, Zichao Wang, Ruiyi Zhang, Puneet Mathur, Jihyung Kil, Jiuxiang Gu, Nedim Lipka, Yu Wang, Ryan A. Rossi, Tyler Derr. “[Reasoning-Based Personalized Generation for Users with Sparse Data](https://arxiv.org/abs/2602.21219)”.
+6. Jindong Li, Ying Liu, Yali Fu, Jinjing Zhu, **Leyao Wang**, Menglin Yang, Rex Ying. “[SRTJ: Self-Evolving Rule-Driven Training-Free LLM Jailbreaking](https://openreview.net/forum?id=ssvmggz63L&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DKDD.org%2F2026%2FResearch_Track_Cycle_2%2FAuthors%23your-submissions))”.
+
 
 
 
