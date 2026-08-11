@@ -12,10 +12,8 @@ author_profile: true
 1. **Leyao Wang** *, Yanan He *, Peng Chen, Asaf Yehudai, Yixin Liu, Rex Ying, Michal Shmueli-Scheuer, Arman Cohan. “[Time to REFLECT: Can We Trust LLM Judges for Evidence-based Research Agents](https://arxiv.org/abs/2605.19196)”.
 2. Xutao Mao, Liangjie Zhao, **Leyao Wang**, Rui Qian, Qiang Huang, Wentao Wang, Bo Han, Xiang Zheng, Cong Wang. “[Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Stateful Personal Agents](https://arxiv.org/abs/2607.10526)”.
 3. **Leyao Wang** *, Xutao Mao *, Xuhui Zhan, Yuying Zhao, Bo Ni, Ryan A. Rossi, Nesreen K. Ahmed, Tyler Derr “[Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation](https://arxiv.org/abs/2508.01128)”.
-4. Bo Ni, Zheyuan Liu ^ , **Leyao Wang** ^ , Yongjia Lei ^ , Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang *, Meng Jiang *, Tyler Derr *. “[Towards Trustworthy Retrieval Augmented
-Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)”.
-5. Bo Ni, Branislav Kveton, Samyadeep Basu, Subhojyoti Mukherjee, **Leyao Wang**, Franck Dernoncourt, Sungchul Kim, Seunghyun Yoon, Zichao Wang, Ruiyi Zhang, Puneet Mathur, Jihyung Kil, Jiuxiang Gu, Nedim Lipka, Yu Wang, Ryan A. Rossi, Tyler Derr. “[Reasoning-Based Personalized Generation for Users with Sparse Data](https://arxiv.org/abs/2602.21219)”.
-6. Jindong Li, Ying Liu, Yali Fu, Jinjing Zhu, **Leyao Wang**, Menglin Yang, Rex Ying. “[SRTJ: Self-Evolving Rule-Driven Training-Free LLM Jailbreaking](https://openreview.net/forum?id=ssvmggz63L&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DKDD.org%2F2026%2FResearch_Track_Cycle_2%2FAuthors%23your-submissions))”.
+4. Bo Ni, Branislav Kveton, Samyadeep Basu, Subhojyoti Mukherjee, **Leyao Wang**, Franck Dernoncourt, Sungchul Kim, Seunghyun Yoon, Zichao Wang, Ruiyi Zhang, Puneet Mathur, Jihyung Kil, Jiuxiang Gu, Nedim Lipka, Yu Wang, Ryan A. Rossi, Tyler Derr. “[Reasoning-Based Personalized Generation for Users with Sparse Data](https://arxiv.org/abs/2602.21219)”.
+5. Jindong Li, Ying Liu, Yali Fu, Jinjing Zhu, **Leyao Wang**, Menglin Yang, Rex Ying. “[SRTJ: Self-Evolving Rule-Driven Training-Free LLM Jailbreaking](https://openreview.net/forum?id=ssvmggz63L&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DKDD.org%2F2026%2FResearch_Track_Cycle_2%2FAuthors%23your-submissions))”.
 
 
 
@@ -31,6 +29,7 @@ Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872
 ### JOURNAL
 1. **Leyao Wang** *,  Zhiyu Wan *, Congning Ni, Qingyuan Song, Yang Li, Ellen W Clayton, Bradley Malin, Zhijun Yin. “[Application and Concerns of ChatGPT and Conversational Large Language Models in Healthcare: A Systematic Review](https://www.jmir.org/2024/1/e22769)”.  **JMIR**.
 2. Wenqiang Chen *, Jason Cheng *, **Leyao Wang**, Wei Zhao, Wojciech Matusik. “[Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors](https://arxiv.org/abs/2410.20034)”.  **IMWUT**.
+3. Bo Ni, Zheyuan Liu ^ , Yongjia Lei ^ , **Leyao Wang** ^,  Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang *, Meng Jiang *, Tyler Derr *. “[Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)”. **CSUR**.
 
 
 ### WORKSHOP 
