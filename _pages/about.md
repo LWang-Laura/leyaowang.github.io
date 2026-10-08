@@ -12,14 +12,15 @@ redirect_from:
 <p style="font-size:18px;">Welcome! I am Leyao (Laura) Wang, a <a href="https://engineering.yale.edu/academic-study/departments/computer-science/graduate-study/master-science-program"> MSCS (fully-funded program with thesis) </a> at <a href="https://www.yale.edu/"> Yale University</a> co-advised by Prof. <a href="https://www.cs.yale.edu/homes/ying-rex/"> Rex Ying</a> and Prof. <a href="https://armancohan.com/"> Arman Cohan</a>. I obtained the Bachelor of Science from <a href="https://www.vanderbilt.edu/"> Vanderbilt University</a> with <a href="https://registrar.vanderbilt.edu/academic-records/latin-honors.php"> summa cum laude </a> (the highest honor), double majoring in <a href="https://engineering.vanderbilt.edu/departments/computer-science/"> Computer Science</a> and <a href="https://as.vanderbilt.edu/math/"> Mathematics</a> and minoring in <a href="https://www.vanderbilt.edu/datascience/"> Data Science</a>. In the past, I was fortunate to work with Dr.<a href="https://tylersnetwork.github.io/"> Tyler Derr</a>  in <a href="https://nds-vu.github.io/">Network Data Science (NDS) Lab</a> at Vanderbilt, Dr. <a href="https://bme.duke.edu/people/pranam-chatterjee/"> Pranam Chatterjee</a>  in <a href="https://www.chatterjeelab.com/">The Programmable Biology Group (PBG)</a> at Duke University, and Dr. <a href="https://www.vumc.org/biostatistics/person/zhijun-yin/"> Zhijun Yin</a> from the Vanderbilt SPHERE lab.</p>
 
 
-Research Interests
-======
+## Research Interests
 
-My research interests center on human–AI collaboration, with a focus on aligning and evaluating LLMs and agents across several dimensions:
+My research focuses on **continual learning and adaptation in language models and AI agents**. I investigate how AI systems can _learn from imperfect supervision_, _personalize over long horizons_, and _support trustworthy evaluation_. My goal is to develop AI systems that continuously improve after deployment while retaining acquired knowledge and learning to correct their own mistakes.
 
-- **AI for Science**: Training and benchmarking agents (e.g., deep research agents) for scientific discovery.
-- **Data-Centric AI**: Synthesizing and curating data for LLM/agent post-training (SFT/RL) and evaluation.
-- **Trustworthy AI**: Aligning LLM/ agents with human values for personalizatin or safety.
+My research spans three interconnected directions:
+
+- **Self-Improvement from Imperfect Supervision**: Developing data-centric methods and model training strategies that enable effective learning from imperfect supervision and support continual self-improvement.
+- **Continual Understanding and Adaptation to People**: Building personalized AI agents that learn from long-term human interaction, maintain evolving user representations, and adapt to changing preferences and needs.
+- **Evaluating and Governing Adaptive AI Systems**: Developing trustworthy evaluation and oversight methods to assess agent behavior, identify unreliable feedback, and prevent error accumulation during continual learning.
 
 
 News
