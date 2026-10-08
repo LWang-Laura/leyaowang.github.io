@@ -14,7 +14,7 @@ redirect_from:
 
 ## Research Interests
 
-My research focuses on continual learning and adaptation in language models and AI agents. I aim to build systems that keep improving after deployment while retaining what they have learned and correcting their own mistakes. My work spans three connected directions:
+My research focuses on **continual learning and adaptation** in **language models and AI agents**. I aim to build systems that keep improving after deployment while retaining what they have learned and correcting their own mistakes. My work spans three connected directions:
 
 - **Self-improvement from imperfect supervision:** Data-centric methods and training strategies, such as on-policy self-distillation and RL post-training, that let models learn from noisy, sparse, or self-generated signals.
 - **Long-horizon personalization:** Agents that learn from sustained human interaction, maintain evolving user representations, and adapt as preferences and needs change.
