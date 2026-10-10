@@ -1,0 +1,18 @@
+<header class="site-header">
+  <div class="shell header-inner">
+    <a class="site-brand" href="{{ '/' | relative_url }}">Leyao Wang<span class="brand-period">.</span></a>
+    <nav class="desktop-nav" aria-label="Primary navigation">
+      {% for link in site.data.navigation.main %}
+        <a href="{{ link.url | relative_url }}"{% if page.url == link.active_on %} aria-current="page"{% endif %}>{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+    <details class="mobile-menu">
+      <summary aria-label="Toggle navigation"><span>Menu</span><span class="menu-lines" aria-hidden="true"></span></summary>
+      <nav aria-label="Mobile navigation">
+        {% for link in site.data.navigation.main %}
+          <a href="{{ link.url | relative_url }}"{% if page.url == link.active_on %} aria-current="page"{% endif %}>{{ link.title }}</a>
+        {% endfor %}
+      </nav>
+    </details>
+  </div>
+</header>

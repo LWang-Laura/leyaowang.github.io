@@ -1,0 +1,20 @@
+<footer class="site-footer">
+  <div class="shell footer-inner">
+    <div>
+      <p class="footer-name">Leyao (Laura) Wang</p>
+      <p>Yale University · New Haven, CT</p>
+    </div>
+    <nav aria-label="Contact and profiles" class="footer-links">
+      <a href="mailto:{{ site.author.email | escape }}">Email</a>
+      <a href="{{ site.author.googlescholar | escape }}">Google Scholar</a>
+      <a href="https://github.com/{{ site.author.github | escape }}">GitHub</a>
+      <a href="https://www.linkedin.com/in/{{ site.author.linkedin | escape }}/">LinkedIn</a>
+      <a href="{{ '/cv/' | relative_url }}">CV</a>
+    </nav>
+  </div>
+  <div class="shell footer-bottom">
+    <span>© {{ site.time | date: '%Y' }} {{ site.name | escape }}</span>
+    <span>Powered by <a href="https://jekyllrb.com/">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/">Minimal Mistakes</a>.</span>
+    <span>Site last updated {{ 'now' | date: '%Y-%m-%d' }}</span>
+  </div>
+</footer>
