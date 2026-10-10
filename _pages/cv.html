@@ -1,26 +1,24 @@
 ---
-layout: archive
+layout: editorial
 title: "CV"
 permalink: /cv/
-author_profile: true
 redirect_from:
   - /resume
+  - /resume/
 ---
 
-
-
-
-<!-- 
-<br/>
-
-You can also download my CV <a href=https://drive.google.com/file/d/1ZB59vK2a9rnfWxi_LnGg9xQ-0aG5jgvU/view?usp=sharing">HERE</a>. And here's the <a href=https://drive.google.com/file/d/1tiPIaJqYi9y_oPwKgo4dpI7uLmaeDz8R/view?usp=drive_link">CHINESE VERSION</a>.
-
-<br/> -->
-    <object class="pdf" 
-            data=
-"../assets/Resume_Leyao.pdf"
-            width="1000"
-            height="800">
-    </object>
-
-
+<div class="shell cv-page">
+  <header class="page-intro">
+    <p class="section-kicker">Curriculum vitae</p>
+    <h1>CV</h1>
+    <p>Leyao (Laura) Wang</p>
+  </header>
+  <div class="cv-toolbar">
+    <a class="download-link" href="{{ '/assets/Resume_Leyao.pdf' | relative_url }}" download>Download CV <span aria-hidden="true">↓</span></a>
+    <p>PDF · <a href="{{ '/assets/Resume_Leyao.pdf' | relative_url }}" target="_blank" rel="noopener">Open in a new tab ↗</a></p>
+  </div>
+  <object class="pdf-frame" data="{{ '/assets/Resume_Leyao.pdf' | relative_url }}" type="application/pdf" aria-label="Leyao Wang curriculum vitae PDF">
+    <p>Your browser does not support embedded PDFs. <a href="{{ '/assets/Resume_Leyao.pdf' | relative_url }}">Open the CV PDF</a>.</p>
+  </object>
+  <p class="pdf-fallback">If the preview does not appear, <a href="{{ '/assets/Resume_Leyao.pdf' | relative_url }}">open the PDF directly</a>.</p>
+</div>
