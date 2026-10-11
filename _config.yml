@@ -188,6 +188,7 @@ exclude:
   - README
   - tmp
   - vendor
+  - publication_figures
 keep_files:
   - .git
   - .svn

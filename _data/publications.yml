@@ -2,6 +2,7 @@
 - category: Preprint
   id: stronger-yet-not-better
   short: Stronger Yet Not Better
+  image: stronger-yet-not-better.png
   areas: [training]
   title: 'Stronger, Yet Not Better: Demystifying Self-Distillation Initialization'
   authors: '**Leyao Wang**, Rex Ying, Arman Cohan.'
@@ -11,6 +12,7 @@
 - category: Preprint
   id: reflect
   short: REFLECT
+  image: reflect.png
   areas: [evaluation]
   title: 'Time to REFLECT: Can We Trust LLM Judges for Evidence-based Research Agents'
   authors: '**Leyao Wang** *, Yanan He *, Peng Chen, Asaf Yehudai, Yixin Liu, Rex Ying, Michal Shmueli-Scheuer, Arman Cohan.'
@@ -20,6 +22,7 @@
 - category: Preprint
   id: pasb
   short: PASB
+  image: pasb.png
   areas: [personalization, evaluation]
   title: 'Agents Don''t Just Agree, They Remember: Benchmarking Persistent Sycophancy in Stateful Personal Agents'
   authors: Xutao Mao, Liangjie Zhao, **Leyao Wang**, Rui Qian, Qiang Huang, Wentao Wang, Bo Han, Xiang Zheng, Cong Wang.
@@ -28,6 +31,7 @@
 - category: Preprint
   id: twister
   short: TWISTER
+  image: twister.png
   areas: [training]
   title: Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation
   authors: '**Leyao Wang** *, Xutao Mao *, Xuhui Zhan, Yuying Zhao, Bo Ni, Ryan A. Rossi, Nesreen K. Ahmed, Tyler Derr'
@@ -36,6 +40,7 @@
 - category: Preprint
   id: grasper
   short: GraSPer
+  image: grasper.png
   areas: [personalization]
   title: Reasoning-Based Personalized Generation for Users with Sparse Data
   authors: Bo Ni, Branislav Kveton, Samyadeep Basu, Subhojyoti Mukherjee, **Leyao Wang**, Franck Dernoncourt, Sungchul Kim, Seunghyun Yoon, Zichao Wang, Ruiyi Zhang, Puneet Mathur, Jihyung Kil, Jiuxiang Gu, Nedim Lipka, Yu Wang, Ryan A. Rossi, Tyler Derr.
@@ -44,6 +49,7 @@
 - category: Preprint
   id: srtj
   short: SRTJ
+  image: srtj.png
   areas: [evaluation]
   title: 'SRTJ: Self-Evolving Rule-Driven Training-Free LLM Jailbreaking'
   authors: Jindong Li, Ying Liu, Yali Fu, Jinjing Zhu, **Leyao Wang**, Menglin Yang, Rex Ying.
@@ -52,6 +58,7 @@
 - category: Conference
   id: copersona
   short: CoPersona
+  image: copersona.png
   areas: [personalization]
   title: 'CoPersona: Collaborative Persona Graphs for Robust LLM Personalization'
   authors: Yangtian Zhang *, **Leyao Wang** *, Hiren Madhu, Ngoc Bui, Walter Roznyatovskiy, Rex Ying.
@@ -61,6 +68,7 @@
 - category: Conference
   id: save-tag
   short: SaVe-TAG
+  image: save-tag.png
   areas: [training]
   title: 'SaVe-TAG: LLM-based Interpolation for Long-Tailed Text-Attributed Graphs'
   authors: '**Leyao Wang**, Yu Wang, Bo Ni, Yuying Zhao, Hanyu Wang, Yao Ma, Tyler Derr.'
@@ -70,6 +78,7 @@
 - category: Conference
   id: mindvote
   short: MindVote
+  image: mindvote.png
   areas: [personalization]
   title: 'MindVote: When AI Meets the Wild West of Social Media Opinion'
   authors: Xutao Mao, Ezra Xuanru Tao, **Leyao Wang**.
@@ -79,6 +88,7 @@
 - category: Conference
   id: user-simulation-survey
   short: User Simulation Survey
+  image: user-simulation-survey.png
   areas: [personalization]
   title: 'Large Language Models for Conversational User Simulation: A Comprehensive Surveyy'
   authors: Bo Ni, **Leyao Wang**, Yu Wang, Branislav Kveton, Franck Dernoncourt, Yu Xia, Hongjie Chen, Reuben Leura, Samyadeep Basu, Subhojyoti Mukherjee, Puneet Mathur, Nesreen Ahmed, Junda Wu, Li Li, Huixin Zhang, Ruiyi Zhang, Tong Yu, Sungchul Kim, Jiuxiang Gu, Zhengzhong Tu, Alexa Siu, Zichao Wang, David Seunghyun Yoon, Nedim Lipka, Namyong Park, Zihao Lin, Trung Bui, Yue Zhao, Tyler Derr, Ryan A Rossi.
@@ -87,6 +97,7 @@
 - category: Journal
   id: healthcare-llm-review
   short: Healthcare LLM Review
+  image: healthcare-llm-review.png
   areas: [evaluation]
   title: 'Application and Concerns of ChatGPT and Conversational Large Language Models in Healthcare: A Systematic Review'
   authors: '**Leyao Wang** *,  Zhiyu Wan *, Congning Ni, Qingyuan Song, Yang Li, Ellen W Clayton, Bradley Malin, Zhijun Yin.'
@@ -103,6 +114,7 @@
 - category: Journal
   id: trustworthy-rag-survey
   short: Trustworthy RAG Survey
+  image: trustworthy-rag-survey.png
   areas: [evaluation]
   title: 'Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey'
   authors: Bo Ni, Zheyuan Liu ^ , Yongjia Lei ^ , **Leyao Wang** ^,  Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang *, Meng Jiang *, Tyler Derr *.
@@ -111,6 +123,7 @@
 - category: Workshop
   id: pepdora
   short: PepDoRA
+  image: pepdora.png
   areas: [training]
   title: 'PepDoRA: A Unified Peptide Language Model via Weight-Decomposed Low-Rank Adaptation'
   authors: '**Leyao Wang** *, Rishab Pulugurta *, Pranay Vure *, Yinuo Zhang *, Aastha Pal, Pranam Chatterjee.'
