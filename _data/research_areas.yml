@@ -1,7 +1,7 @@
 # Research directions shown on the homepage cards and used to group /publications/.
 # `key` matches the `areas` values in publications.yml.
 - key: training
-  title: Self-improvement from imperfect supervision
+  title: Continual self-improvement from imperfect supervision
   description: Data-centric methods and training strategies, such as on-policy self-distillation and RL post-training, that let models learn from noisy, sparse, or self-generated signals.
 - key: personalization
   title: Human-centered adaptation via long-horizon personalization
