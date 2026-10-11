@@ -1,13 +1,28 @@
-<article class="publication-item">
+{% assign pub = include.publication %}
+{% assign has_paper = false %}{% if pub.paper_url and pub.paper_url != empty %}{% assign has_paper = true %}{% endif %}
+<article class="publication-item" id="pub-{{ pub.id }}">
+  <figure class="publication-thumb">
+    {% if pub.image and pub.image != empty %}
+      <img src="{{ '/images/publications/' | append: pub.image | relative_url }}" loading="lazy" decoding="async" alt="Overview figure for {{ pub.short | escape }}">
+    {% else %}
+      <div class="publication-thumb-placeholder" aria-hidden="true">{{ pub.short | escape }}</div>
+    {% endif %}
+  </figure>
   <div class="publication-meta">
-    {% if include.publication.venue == empty %}
+    {% if pub.venue == empty %}
       <span>Preprint</span>
     {% else %}
-      <span>{{ include.publication.venue | remove: '**' | escape }}</span>
+      <span>{{ pub.venue | remove: '**' | escape }}</span>
     {% endif %}
   </div>
-  <h3><a href="{{ include.publication.paper_url | escape }}">{{ include.publication.title | escape }}</a></h3>
-  {% assign marked_authors = include.publication.authors | escape | replace: '**Leyao Wang**', '<strong class="self-author">Leyao Wang</strong>' %}
+  {% if has_paper %}
+    <h3><a href="{{ pub.paper_url | escape }}">{{ pub.title | escape }}</a></h3>
+  {% else %}
+    <h3>{{ pub.title | escape }}</h3>
+  {% endif %}
+  {% assign marked_authors = pub.authors | escape | replace: '**Leyao Wang**', '<strong class="self-author">Leyao Wang</strong>' %}
   <p class="publication-authors">{{ marked_authors }}</p>
-  <a class="paper-link" href="{{ include.publication.paper_url | escape }}" aria-label="Read paper: {{ include.publication.title | escape }}">Paper <span aria-hidden="true">↗</span></a>
+  {% if has_paper %}
+    <a class="paper-link" href="{{ pub.paper_url | escape }}" aria-label="Read paper: {{ pub.title | escape }}">Paper <span aria-hidden="true">↗</span></a>
+  {% endif %}
 </article>
