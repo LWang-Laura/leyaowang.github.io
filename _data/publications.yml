@@ -106,6 +106,7 @@
 - category: Journal
   id: sensor2text
   short: Sensor2Text
+  image: sensor2text.png
   areas: [personalization]
   title: 'Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors'
   authors: Wenqiang Chen *, Jason Cheng *, **Leyao Wang**, Wei Zhao, Wojciech Matusik.
