@@ -7,6 +7,7 @@
   authors: '**Leyao Wang**, Rex Ying, Arman Cohan.'
   paper_url: https://openreview.net/forum?id=XND4c4fKFW
   venue: ''
+  selected: true
 - category: Preprint
   id: reflect
   short: REFLECT
@@ -15,6 +16,7 @@
   authors: '**Leyao Wang** *, Yanan He *, Peng Chen, Asaf Yehudai, Yixin Liu, Rex Ying, Michal Shmueli-Scheuer, Arman Cohan.'
   paper_url: https://arxiv.org/abs/2605.19196
   venue: ''
+  selected: true
 - category: Preprint
   id: pasb
   short: PASB
