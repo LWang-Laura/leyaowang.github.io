@@ -87,7 +87,7 @@
 - category: Journal
   id: healthcare-llm-review
   short: Healthcare LLM Review
-  areas: []
+  areas: [evaluation]
   title: 'Application and Concerns of ChatGPT and Conversational Large Language Models in Healthcare: A Systematic Review'
   authors: '**Leyao Wang** *,  Zhiyu Wan *, Congning Ni, Qingyuan Song, Yang Li, Ellen W Clayton, Bradley Malin, Zhijun Yin.'
   paper_url: https://www.jmir.org/2024/1/e22769
@@ -111,7 +111,7 @@
 - category: Workshop
   id: pepdora
   short: PepDoRA
-  areas: []
+  areas: [training]
   title: 'PepDoRA: A Unified Peptide Language Model via Weight-Decomposed Low-Rank Adaptation'
   authors: '**Leyao Wang** *, Rishab Pulugurta *, Pranay Vure *, Yinuo Zhang *, Aastha Pal, Pranam Chatterjee.'
   paper_url: https://arxiv.org/abs/2410.20667

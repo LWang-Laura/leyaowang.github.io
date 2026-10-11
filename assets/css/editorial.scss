@@ -88,6 +88,7 @@ h2 { font-size: clamp(2.05rem, 3vw, 3.1rem); line-height: 1.16; margin-bottom: 0
 .category-heading:first-of-type { margin-top: 24px; }
 .category-heading h2 { font: 500 clamp(1.75rem, 2.5vw, 2.4rem)/1.2 var(--serif); }
 .category-heading span { color: var(--accent); font-size: .74rem; font-weight: 700; }
+.category-description { max-width: 70ch; color: var(--muted); font-size: .88rem; line-height: 1.7; margin: -8px 0 19px; }
 .contribution-notes { color: var(--muted); font-size: .83rem; margin-top: 34px; }
 .contribution-notes p { margin-bottom: 3px; }
 

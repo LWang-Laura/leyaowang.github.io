@@ -1,6 +1,6 @@
 {% assign pub = include.publication %}
 {% assign has_paper = false %}{% if pub.paper_url and pub.paper_url != empty %}{% assign has_paper = true %}{% endif %}
-<article class="publication-item" id="pub-{{ pub.id }}">
+<article class="publication-item"{% unless include.anchor == false %} id="pub-{{ pub.id }}"{% endunless %}>
   <figure class="publication-thumb">
     {% if pub.image and pub.image != empty %}
       <img src="{{ '/images/publications/' | append: pub.image | relative_url }}" loading="lazy" decoding="async" alt="Overview figure for {{ pub.short | escape }}">
