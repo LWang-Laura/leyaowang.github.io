@@ -5,7 +5,7 @@ Baseline: `master` at `3dc5ff1` (also the starting commit of `redesign/modern-ed
 - [x] Homepage biography retains its visible text, educational and lab affiliations, advisor and collaborator names, honors, and links.
 - [x] Research introduction and all three direction headings and explanations retain their original wording.
 - [x] All 19 dated news announcements and their links are present; six appear initially and 13 remain in the native expandable list.
-- [x] All 13 publications remain in source order: five Preprint, four Conference, three Journal, one Workshop.
+- [x] All 14 publications remain in source order: six Preprint, four Conference, three Journal, one Workshop.
 - [x] Every publication retains its title, full author string and order, contribution marks, paper URL, venue text, and category; Google Scholar and the contribution notes remain.
 - [x] The existing portrait (`images/laura2.png`) and CV PDF (`assets/Resume_Leyao.pdf`) are unchanged.
 - [x] Main routes `/`, `/publications/`, and `/cv/`, plus `/about/`, `/about.html`, and `/resume` redirects, are retained.
