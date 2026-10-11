@@ -1,4 +1,10 @@
 # Source: original _pages/about.md; preserve every announcement and link.
+- date: 08/2026
+  body: 'Two papers ("[CoPersona](https://dl.acm.org/doi/10.1145/3770855.3817892)" and "[SaVe-TAG](https://arxiv.org/abs/2410.16882)") are presented at KDD 2026!'
+- date: 06/2026
+  body: 'Release the "[REFLECT](https://github.com/LWang-Laura/REFLECT)" benchmark!'
+- date: 05/2026
+  body: 'My paper "[CoPersona: Collaborative Persona Graphs for Robust LLM Personalization](https://dl.acm.org/doi/10.1145/3770855.3817892)" has been accepted to KDD 2026!'
 - date: 01/2026
   body: Our paper "[A Survey on LLM-based Conversational User Simulation](https://hal.science/hal-05217179/)" has been accepted to EACL 2026!
 - date: 11/2025
