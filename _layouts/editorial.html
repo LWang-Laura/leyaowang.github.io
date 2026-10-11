@@ -1,0 +1,21 @@
+<!doctype html>
+<html lang="{{ site.locale | default: 'en' | slice: 0, 2 }}">
+  <head>
+    <meta charset="utf-8">
+    {% include base_path %}
+    {% include seo.html %}
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#fafaf7">
+    <link rel="icon" href="{{ '/images/favicon.ico' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/editorial.css' | relative_url }}">
+    <link rel="alternate" type="application/atom+xml" title="{{ site.title | escape }} Feed" href="{{ '/feed.xml' | relative_url }}">
+  </head>
+  <body class="editorial-site">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    {% include editorial-header.html %}
+    <main id="main-content">
+      {{ content }}
+    </main>
+    {% include editorial-footer.html %}
+  </body>
+</html>

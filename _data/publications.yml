@@ -1,0 +1,69 @@
+# Source: original _pages/publications.md; preserve author order and source wording.
+- category: Preprint
+  title: 'Time to REFLECT: Can We Trust LLM Judges for Evidence-based Research Agents'
+  authors: '**Leyao Wang** *, Yanan He *, Peng Chen, Asaf Yehudai, Yixin Liu, Rex Ying, Michal Shmueli-Scheuer, Arman Cohan.'
+  paper_url: https://arxiv.org/abs/2605.19196
+  venue: ''
+- category: Preprint
+  title: 'Agents Don''t Just Agree, They Remember: Benchmarking Persistent Sycophancy in Stateful Personal Agents'
+  authors: Xutao Mao, Liangjie Zhao, **Leyao Wang**, Rui Qian, Qiang Huang, Wentao Wang, Bo Han, Xiang Zheng, Cong Wang.
+  paper_url: https://arxiv.org/abs/2607.10526
+  venue: ''
+- category: Preprint
+  title: Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation
+  authors: '**Leyao Wang** *, Xutao Mao *, Xuhui Zhan, Yuying Zhao, Bo Ni, Ryan A. Rossi, Nesreen K. Ahmed, Tyler Derr'
+  paper_url: https://arxiv.org/abs/2508.01128
+  venue: ''
+- category: Preprint
+  title: Reasoning-Based Personalized Generation for Users with Sparse Data
+  authors: Bo Ni, Branislav Kveton, Samyadeep Basu, Subhojyoti Mukherjee, **Leyao Wang**, Franck Dernoncourt, Sungchul Kim, Seunghyun Yoon, Zichao Wang, Ruiyi Zhang, Puneet Mathur, Jihyung Kil, Jiuxiang Gu, Nedim Lipka, Yu Wang, Ryan A. Rossi, Tyler Derr.
+  paper_url: https://arxiv.org/abs/2602.21219
+  venue: ''
+- category: Preprint
+  title: 'SRTJ: Self-Evolving Rule-Driven Training-Free LLM Jailbreaking'
+  authors: Jindong Li, Ying Liu, Yali Fu, Jinjing Zhu, **Leyao Wang**, Menglin Yang, Rex Ying.
+  paper_url: https://openreview.net/forum?id=ssvmggz63L&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DKDD.org%2F2026%2FResearch_Track_Cycle_2%2FAuthors%23your-submissions)
+  venue: ''
+- category: Conference
+  title: 'CoPersona: Collaborative Persona Graphs for Robust LLM Personalization'
+  authors: Yangtian Zhang *, **Leyao Wang** *, Hiren Madhu, Ngoc Bui, Walter Roznyatovskiy, Rex Ying.
+  paper_url: https://openreview.net/forum?id=L46YflYpH8&referrer=%5BAuthor%20Console%5D
+  venue: '**KDD 2026**.'
+  selected: true
+- category: Conference
+  title: 'SaVe-TAG: LLM-based Interpolation for Long-Tailed Text-Attributed Graphs'
+  authors: '**Leyao Wang**, Yu Wang, Bo Ni, Yuying Zhao, Hanyu Wang, Yao Ma, Tyler Derr.'
+  paper_url: https://arxiv.org/abs/2410.16882
+  venue: '**KDD 2026**, **NPGML@Neurips 2025**.'
+  selected: true
+- category: Conference
+  title: 'MindVote: When AI Meets the Wild West of Social Media Opinion'
+  authors: Xutao Mao, Ezra Xuanru Tao, **Leyao Wang**.
+  paper_url: https://arxiv.org/abs/2505.14422
+  venue: '**AAAI 2026 (Oral)**.'
+  selected: true
+- category: Conference
+  title: 'Large Language Models for Conversational User Simulation: A Comprehensive Surveyy'
+  authors: Bo Ni, **Leyao Wang**, Yu Wang, Branislav Kveton, Franck Dernoncourt, Yu Xia, Hongjie Chen, Reuben Leura, Samyadeep Basu, Subhojyoti Mukherjee, Puneet Mathur, Nesreen Ahmed, Junda Wu, Li Li, Huixin Zhang, Ruiyi Zhang, Tong Yu, Sungchul Kim, Jiuxiang Gu, Zhengzhong Tu, Alexa Siu, Zichao Wang, David Seunghyun Yoon, Nedim Lipka, Namyong Park, Zihao Lin, Trung Bui, Yue Zhao, Tyler Derr, Ryan A Rossi.
+  paper_url: https://hal.science/hal-05217179/
+  venue: '**EACL 2026**.'
+- category: Journal
+  title: 'Application and Concerns of ChatGPT and Conversational Large Language Models in Healthcare: A Systematic Review'
+  authors: '**Leyao Wang** *,  Zhiyu Wan *, Congning Ni, Qingyuan Song, Yang Li, Ellen W Clayton, Bradley Malin, Zhijun Yin.'
+  paper_url: https://www.jmir.org/2024/1/e22769
+  venue: '**JMIR**.'
+- category: Journal
+  title: 'Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors'
+  authors: Wenqiang Chen *, Jason Cheng *, **Leyao Wang**, Wei Zhao, Wojciech Matusik.
+  paper_url: https://arxiv.org/abs/2410.20034
+  venue: '**IMWUT**.'
+- category: Journal
+  title: 'Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey'
+  authors: Bo Ni, Zheyuan Liu ^ , Yongjia Lei ^ , **Leyao Wang** ^,  Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang *, Meng Jiang *, Tyler Derr *.
+  paper_url: https://arxiv.org/abs/2502.06872
+  venue: '**CSUR**.'
+- category: Workshop
+  title: 'PepDoRA: A Unified Peptide Language Model via Weight-Decomposed Low-Rank Adaptation'
+  authors: '**Leyao Wang** *, Rishab Pulugurta *, Pranay Vure *, Yinuo Zhang *, Aastha Pal, Pranam Chatterjee.'
+  paper_url: https://arxiv.org/abs/2410.20667
+  venue: '**AIDrugX @ NeurIPS24**.'

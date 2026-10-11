@@ -1,42 +1,27 @@
 ---
-layout: archive
+layout: editorial
 title: "Publications"
 permalink: /publications/
-author_profile: true
 ---
 
-*Check my [Google Scholar](https://scholar.google.com/citations?user=8MsC-v0AAAAJ&hl=en) for the recent updates and details!*
-
-### PREPRINT
-
-1. **Leyao Wang** *, Yanan He *, Peng Chen, Asaf Yehudai, Yixin Liu, Rex Ying, Michal Shmueli-Scheuer, Arman Cohan. “[Time to REFLECT: Can We Trust LLM Judges for Evidence-based Research Agents](https://arxiv.org/abs/2605.19196)”.
-2. Xutao Mao, Liangjie Zhao, **Leyao Wang**, Rui Qian, Qiang Huang, Wentao Wang, Bo Han, Xiang Zheng, Cong Wang. “[Agents Don't Just Agree, They Remember: Benchmarking Persistent Sycophancy in Stateful Personal Agents](https://arxiv.org/abs/2607.10526)”.
-3. **Leyao Wang** *, Xutao Mao *, Xuhui Zhan, Yuying Zhao, Bo Ni, Ryan A. Rossi, Nesreen K. Ahmed, Tyler Derr “[Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation](https://arxiv.org/abs/2508.01128)”.
-4. Bo Ni, Branislav Kveton, Samyadeep Basu, Subhojyoti Mukherjee, **Leyao Wang**, Franck Dernoncourt, Sungchul Kim, Seunghyun Yoon, Zichao Wang, Ruiyi Zhang, Puneet Mathur, Jihyung Kil, Jiuxiang Gu, Nedim Lipka, Yu Wang, Ryan A. Rossi, Tyler Derr. “[Reasoning-Based Personalized Generation for Users with Sparse Data](https://arxiv.org/abs/2602.21219)”.
-5. Jindong Li, Ying Liu, Yali Fu, Jinjing Zhu, **Leyao Wang**, Menglin Yang, Rex Ying. “[SRTJ: Self-Evolving Rule-Driven Training-Free LLM Jailbreaking](https://openreview.net/forum?id=ssvmggz63L&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DKDD.org%2F2026%2FResearch_Track_Cycle_2%2FAuthors%23your-submissions))”.
-
-
-
-
-
-### CONFERENCE 
-1. Yangtian Zhang *, **Leyao Wang** *, Hiren Madhu, Ngoc Bui, Walter Roznyatovskiy, Rex Ying. “[CoPersona: Collaborative Persona Graphs for Robust LLM Personalization](https://openreview.net/forum?id=L46YflYpH8&referrer=%5BAuthor%20Console%5D)”. **KDD 2026**.
-2. **Leyao Wang**, Yu Wang, Bo Ni, Yuying Zhao, Hanyu Wang, Yao Ma, Tyler Derr. “[SaVe-TAG: LLM-based Interpolation for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882)”. **KDD 2026**, **NPGML@Neurips 2025**.
-3. Xutao Mao, Ezra Xuanru Tao, **Leyao Wang**. “[MindVote: When AI Meets the Wild West of Social Media Opinion](https://arxiv.org/abs/2505.14422)”.  **AAAI 2026 (Oral)**.
-4. Bo Ni, **Leyao Wang**, Yu Wang, Branislav Kveton, Franck Dernoncourt, Yu Xia, Hongjie Chen, Reuben Leura, Samyadeep Basu, Subhojyoti Mukherjee, Puneet Mathur, Nesreen Ahmed, Junda Wu, Li Li, Huixin Zhang, Ruiyi Zhang, Tong Yu, Sungchul Kim, Jiuxiang Gu, Zhengzhong Tu, Alexa Siu, Zichao Wang, David Seunghyun Yoon, Nedim Lipka, Namyong Park, Zihao Lin, Trung Bui, Yue Zhao, Tyler Derr, Ryan A Rossi. “[Large Language Models for Conversational User Simulation: A Comprehensive Surveyy](https://hal.science/hal-05217179/)”.  **EACL 2026**.
-
-
-### JOURNAL
-1. **Leyao Wang** *,  Zhiyu Wan *, Congning Ni, Qingyuan Song, Yang Li, Ellen W Clayton, Bradley Malin, Zhijun Yin. “[Application and Concerns of ChatGPT and Conversational Large Language Models in Healthcare: A Systematic Review](https://www.jmir.org/2024/1/e22769)”.  **JMIR**.
-2. Wenqiang Chen *, Jason Cheng *, **Leyao Wang**, Wei Zhao, Wojciech Matusik. “[Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors](https://arxiv.org/abs/2410.20034)”.  **IMWUT**.
-3. Bo Ni, Zheyuan Liu ^ , Yongjia Lei ^ , **Leyao Wang** ^,  Yuying Zhao, Xueqi Cheng, Qingkai Zeng, Luna Dong, Yinglong Xia, Krishnaram Kenthapadi, Ryan Rossi, Franck Dernoncourt, Md Mehrab Tanjim, Nesreen Ahmed, Xiaorui Liu, Wenqi Fan, Erik Blasch, Yu Wang *, Meng Jiang *, Tyler Derr *. “[Towards Trustworthy Retrieval Augmented Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)”. **CSUR**.
-
-
-### WORKSHOP 
-1. **Leyao Wang** *, Rishab Pulugurta *, Pranay Vure *, Yinuo Zhang *, Aastha Pal, Pranam Chatterjee. “ [PepDoRA: A Unified Peptide Language Model via Weight-Decomposed Low-Rank Adaptation](https://arxiv.org/abs/2410.20667)”. **AIDrugX @ NeurIPS24**.
-
-
-
-
-_'*' Denotes 'Equal Contribution/ Guidance'_ \
-_'^' Denotes 'Signifiant Contribution'_
+<div class="shell publications-page">
+  <header class="page-intro">
+    <p class="section-kicker">Research / Bibliography</p>
+    <h1>Publications</h1>
+    <p><em>Check my <a class="text-link" href="{{ site.author.googlescholar | escape }}">Google Scholar</a> for the recent updates and details!</em></p>
+  </header>
+  {% assign categories = 'Preprint,Conference,Journal,Workshop' | split: ',' %}
+  {% for category in categories %}
+    {% assign items = site.data.publications | where: 'category', category %}
+    <section aria-labelledby="category-{{ category | downcase }}">
+      <div class="category-heading"><h2 id="category-{{ category | downcase }}">{{ category }}</h2><span>{{ items.size | prepend: '0' | slice: -2, 2 }}</span></div>
+      <div class="publication-list">
+        {% for publication in items %}{% include editorial-publication.html publication=publication %}{% endfor %}
+      </div>
+    </section>
+  {% endfor %}
+  <div class="contribution-notes">
+    <p><em>'*' Denotes 'Equal Contribution/ Guidance'</em></p>
+    <p><em>'^' Denotes 'Signifiant Contribution'</em></p>
+  </div>
+</div>

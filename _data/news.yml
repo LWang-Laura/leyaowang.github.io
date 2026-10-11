@@ -1,0 +1,41 @@
+# Source: original _pages/about.md; preserve every announcement and link.
+- date: 01/2026
+  body: Our paper "[A Survey on LLM-based Conversational User Simulation](https://hal.science/hal-05217179/)" has been accepted to EACL 2026!
+- date: 11/2025
+  body: 'My paper "[SaVe-TAG: LLM-based Interpolation for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882)" has been accepted to KDD 2026 and NPGML @ Neurips!'
+- date: 11/2025
+  body: 'My paper "[MindVote: When AI Meets the Wild West of Social Media Opinion](https://arxiv.org/abs/2505.14422)" has been accepted as AAA2025 (Oral)!'
+- date: 08/2025
+  body: My paper "[Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation](https://arxiv.org/abs/2508.01128)" has been released on ArXiv!
+- date: 08/2025
+  body: 'My paper "[MindVote: When AI Meets the Wild West of Social Media Opinion](https://arxiv.org/abs/2505.14422)" has been released on ArXiv!'
+- date: 06/2025
+  body: Join the <a href="https://nlp.cs.yale.edu/"> Yale NLP Lab</a> co-advised by Prof. <a href="https://armancohan.com/"> Arman Cohan</a>!
+- date: 06/2025
+  body: Join the <a href="https://graph-and-geometric-learning.github.io/"> Graph and Geometric Learning Lab </a> co-advised by Prof. <a href="https://www.cs.yale.edu/homes/ying-rex/"> Rex Ying</a>!
+- date: 05/2025
+  body: 'My paper "[SaVe-TAG: Semantic-aware Vicinal Risk Minimization for Long-Tailed Text-Attributed Graphs](https://arxiv.org/abs/2410.16882)" has been released on ArXiv!'
+- date: 02/2025
+  body: 'Our survey "[Towards Trustworthy Retrieval Augmented
+
+    Generation for Large Language Models: A Survey](https://arxiv.org/abs/2502.06872)" has been released on ArXiv!'
+- date: 01/2025
+  body: I am selected as an Honorable Mention for the [2024-2025 CRA Outstanding Undergraduate Researcher Award](https://cra.org/about/awards/outstanding-undergraduate-researcher-award/)!
+- date: 12/2024
+  body: 'My paper "[PepDoRA: A Unified Peptide Language Model via Weight-Decomposed Low-Rank Adaptation](https://neurips.cc/virtual/2024/102894)" was presented at NeurIPS 2024 Workshop on AI for New Drug Modalities (AIDrugX @ NeurIPS24)!'
+- date: 11/2024
+  body: 'My paper ["Applications and Concerns of ChatGPT and Other Conversational Large Language Models in Health Care: Systematic Review"](https://www.jmir.org/2024/1/e22769) is now published on JMIR!'
+- date: 10/2024
+  body: 'My paper "[PepDoRA: A Unified Peptide Language Model via Weight-Decomposed Low-Rank Adaptation](https://arxiv.org/abs/2410.20667)" has been accepted by NeurIPS 2024 Workshop on AI for New Drug Modalities (AIDrugX @ NeurIPS24)!'
+- date: 10/2024
+  body: 'My paper ["Applications and Concerns of ChatGPT and Other Conversational Large Language Models in Healthcare: A Systematic Review"](https://www.medrxiv.org/content/10.1101/2024.04.26.24306390v1) has been accepted by the Journal of Medical Internet Research (JMIR)!'
+- date: 09/2024
+  body: 'Our paper ["Sensor2Text: Enabling Natural Language Interactions for Daily Activity Tracking Using Wearable Sensors"](https://dl.acm.org/doi/abs/10.1145/3699747) has been accepted to the Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT/UbiComp 2024)!'
+- date: 08/2024
+  body: My paper ["Large Language Model-based Augmentation for Imbalanced Node Classification on Text-Attributed Graphs"](https://arxiv.org/abs/2410.16882) has been released to ArXiv!
+- date: 05/2024
+  body: Join the Programmable Biology Group (PBG) advised by Dr. Pranam Chatterjee!
+- date: 04/2024
+  body: My paper ["A Systematic Review of ChatGPT and Other Conversational Large Language Models in Healthcare"](https://www.medrxiv.org/content/10.1101/2024.04.26.24306390v1) has been released on MedRXiv!
+- date: 01/2024
+  body: Join Network Data Science (NDS) Lab advised by Dr. Tyler Derr!

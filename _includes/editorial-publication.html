@@ -1,0 +1,13 @@
+<article class="publication-item">
+  <div class="publication-meta">
+    {% if include.publication.venue == empty %}
+      <span>Preprint</span>
+    {% else %}
+      <span>{{ include.publication.venue | remove: '**' | escape }}</span>
+    {% endif %}
+  </div>
+  <h3><a href="{{ include.publication.paper_url | escape }}">{{ include.publication.title | escape }}</a></h3>
+  {% assign marked_authors = include.publication.authors | escape | replace: '**Leyao Wang**', '<strong class="self-author">Leyao Wang</strong>' %}
+  <p class="publication-authors">{{ marked_authors }}</p>
+  <a class="paper-link" href="{{ include.publication.paper_url | escape }}" aria-label="Read paper: {{ include.publication.title | escape }}">Paper <span aria-hidden="true">↗</span></a>
+</article>
