@@ -10,7 +10,7 @@ permalink: /publications/
     <h1>Publications</h1>
     <p><em>Check my <a class="text-link" href="{{ site.author.googlescholar | escape }}">Google Scholar</a> for the recent updates and details!</em></p>
   </header>
-  {% assign categories = 'Preprint,Conference,Journal,Workshop' | split: ',' %}
+  {% assign categories = 'Conference,Preprint,Journal,Workshop' | split: ',' %}
   {% for category in categories %}
     {% assign items = site.data.publications | where: 'category', category %}
     <section aria-labelledby="category-{{ category | downcase }}">
