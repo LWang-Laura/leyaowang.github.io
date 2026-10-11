@@ -7,5 +7,5 @@
   title: Human-centered adaptation via long-horizon personalization
   description: Agents that learn from sustained human interaction, maintain evolving user representations, and adapt as preferences and needs change.
 - key: evaluation
-  title: Evaluation and oversight of adaptive systems
+  title: Trustworthy evaluation and oversight of adaption
   description: Reliable methods for assessing agent behavior, detecting unreliable feedback, and preventing error accumulation during continual learning.
