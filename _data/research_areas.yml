@@ -4,7 +4,7 @@
   title: Self-improvement from imperfect supervision
   description: Data-centric methods and training strategies, such as on-policy self-distillation and RL post-training, that let models learn from noisy, sparse, or self-generated signals.
 - key: personalization
-  title: Long-horizon personalization
+  title: Human-centered adaptation via long-horizon personalization
   description: Agents that learn from sustained human interaction, maintain evolving user representations, and adapt as preferences and needs change.
 - key: evaluation
   title: Evaluation and oversight of adaptive systems
