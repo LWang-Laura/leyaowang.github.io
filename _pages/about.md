@@ -36,7 +36,7 @@ redirect_from:
     <div class="section-heading">
       <div><p class="section-kicker">01 / Research</p><h2 id="research-title">Research interests</h2></div>
     </div>
-    <p class="section-lead">My research focuses on <strong>continual learning and human-centered adaptation</strong> in <strong>language models and AI agents</strong>. I aim to build systems that keep improving after deployment while retaining what they have learned and correcting their own mistakes. My work spans three connected directions:</p>
+    <p class="section-lead">My research focuses on <strong>continual self-improvement and human-centered adaptation</strong> in <strong>language models and AI agents</strong>. I aim to build systems that keep improving after deployment while retaining what they have learned and correcting their own mistakes. My work spans three connected directions:</p>
     <div class="research-grid">
       {% for area in site.data.research_areas %}
       <details class="research-card">
