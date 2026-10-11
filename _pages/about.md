@@ -38,21 +38,36 @@ redirect_from:
     </div>
     <p class="section-lead">My research focuses on <strong>continual learning and adaptation</strong> in <strong>language models and AI agents</strong>. I aim to build systems that keep improving after deployment while retaining what they have learned and correcting their own mistakes. My work spans three connected directions:</p>
     <div class="research-grid">
-      <article class="research-card">
-        <span class="research-number">01</span>
-        <h3>Self-improvement from imperfect supervision</h3>
-        <p>Data-centric methods and training strategies, such as on-policy self-distillation and RL post-training, that let models learn from noisy, sparse, or self-generated signals.</p>
-      </article>
-      <article class="research-card">
-        <span class="research-number">02</span>
-        <h3>Long-horizon personalization</h3>
-        <p>Agents that learn from sustained human interaction, maintain evolving user representations, and adapt as preferences and needs change.</p>
-      </article>
-      <article class="research-card">
-        <span class="research-number">03</span>
-        <h3>Evaluation and oversight of adaptive systems</h3>
-        <p>Reliable methods for assessing agent behavior, detecting unreliable feedback, and preventing error accumulation during continual learning.</p>
-      </article>
+      <details class="research-card">
+        <summary>
+          <span class="research-number">01</span>
+          <h3>Self-improvement from imperfect supervision</h3>
+          <p>Data-centric methods and training strategies, such as on-policy self-distillation and RL post-training, that let models learn from noisy, sparse, or self-generated signals.</p>
+        </summary>
+        <ul class="research-papers">
+          {% for paper in site.data.publications %}{% if paper.areas contains 'training' %}<li><a href="{{ '/publications/' | relative_url }}#pub-{{ paper.id }}">{{ paper.short | escape }}</a></li>{% endif %}{% endfor %}
+        </ul>
+      </details>
+      <details class="research-card">
+        <summary>
+          <span class="research-number">02</span>
+          <h3>Long-horizon personalization</h3>
+          <p>Agents that learn from sustained human interaction, maintain evolving user representations, and adapt as preferences and needs change.</p>
+        </summary>
+        <ul class="research-papers">
+          {% for paper in site.data.publications %}{% if paper.areas contains 'personalization' %}<li><a href="{{ '/publications/' | relative_url }}#pub-{{ paper.id }}">{{ paper.short | escape }}</a></li>{% endif %}{% endfor %}
+        </ul>
+      </details>
+      <details class="research-card">
+        <summary>
+          <span class="research-number">03</span>
+          <h3>Evaluation and oversight of adaptive systems</h3>
+          <p>Reliable methods for assessing agent behavior, detecting unreliable feedback, and preventing error accumulation during continual learning.</p>
+        </summary>
+        <ul class="research-papers">
+          {% for paper in site.data.publications %}{% if paper.areas contains 'evaluation' %}<li><a href="{{ '/publications/' | relative_url }}#pub-{{ paper.id }}">{{ paper.short | escape }}</a></li>{% endif %}{% endfor %}
+        </ul>
+      </details>
     </div>
   </div>
 </section>
