@@ -20,33 +20,6 @@
   venue: ''
   selected: true
 - category: Preprint
-  id: pasb
-  short: PASB
-  image: pasb.png
-  areas: [personalization, evaluation]
-  title: 'Agents Don''t Just Agree, They Remember: Benchmarking Persistent Sycophancy in Stateful Personal Agents'
-  authors: Xutao Mao, Liangjie Zhao, **Leyao Wang**, Rui Qian, Qiang Huang, Wentao Wang, Bo Han, Xiang Zheng, Cong Wang.
-  paper_url: https://arxiv.org/abs/2607.10526
-  venue: ''
-- category: Preprint
-  id: twister
-  short: TWISTER
-  image: twister.png
-  areas: [training]
-  title: Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation
-  authors: '**Leyao Wang** *, Xutao Mao *, Xuhui Zhan, Yuying Zhao, Bo Ni, Ryan A. Rossi, Nesreen K. Ahmed, Tyler Derr'
-  paper_url: https://arxiv.org/abs/2508.01128
-  venue: ''
-- category: Preprint
-  id: grasper
-  short: GraSPer
-  image: grasper.png
-  areas: [personalization]
-  title: Reasoning-Based Personalized Generation for Users with Sparse Data
-  authors: Bo Ni, Branislav Kveton, Samyadeep Basu, Subhojyoti Mukherjee, **Leyao Wang**, Franck Dernoncourt, Sungchul Kim, Seunghyun Yoon, Zichao Wang, Ruiyi Zhang, Puneet Mathur, Jihyung Kil, Jiuxiang Gu, Nedim Lipka, Yu Wang, Ryan A. Rossi, Tyler Derr.
-  paper_url: https://arxiv.org/abs/2602.21219
-  venue: ''
-- category: Preprint
   id: srtj
   short: SRTJ
   image: srtj.png
@@ -85,6 +58,33 @@
   paper_url: https://arxiv.org/abs/2505.14422
   venue: '**AAAI 2026 (Oral)**.'
   selected: true
+- category: Preprint
+  id: pasb
+  short: PASB
+  image: pasb.png
+  areas: [personalization, evaluation]
+  title: 'Agents Don''t Just Agree, They Remember: Benchmarking Persistent Sycophancy in Stateful Personal Agents'
+  authors: Xutao Mao, Liangjie Zhao, **Leyao Wang**, Rui Qian, Qiang Huang, Wentao Wang, Bo Han, Xiang Zheng, Cong Wang.
+  paper_url: https://arxiv.org/abs/2607.10526
+  venue: ''
+- category: Preprint
+  id: twister
+  short: TWISTER
+  image: twister.png
+  areas: [training,personalization]
+  title: Towards Bridging Review Sparsity in Recommendation with Textual Edge Graph Representation
+  authors: '**Leyao Wang** *, Xutao Mao *, Xuhui Zhan, Yuying Zhao, Bo Ni, Ryan A. Rossi, Nesreen K. Ahmed, Tyler Derr'
+  paper_url: https://arxiv.org/abs/2508.01128
+  venue: ''
+- category: Preprint
+  id: grasper
+  short: GraSPer
+  image: grasper.png
+  areas: [personalization]
+  title: Reasoning-Based Personalized Generation for Users with Sparse Data
+  authors: Bo Ni, Branislav Kveton, Samyadeep Basu, Subhojyoti Mukherjee, **Leyao Wang**, Franck Dernoncourt, Sungchul Kim, Seunghyun Yoon, Zichao Wang, Ruiyi Zhang, Puneet Mathur, Jihyung Kil, Jiuxiang Gu, Nedim Lipka, Yu Wang, Ryan A. Rossi, Tyler Derr.
+  paper_url: https://arxiv.org/abs/2602.21219
+  venue: ''
 - category: Conference
   id: user-simulation-survey
   short: User Simulation Survey
